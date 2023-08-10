@@ -1,5 +1,18 @@
-# Responsive Travel Website 🌊
-###  Responsive Travel Website 🌊
+# Project Title
+
+Responsive Travel Website
+
+---
+
+## Project Description
+
+---
+
+This is a live URL:
+
+https://zian786.github.io/travel-website/
+
+### Functionality 🌊
 
 - Travel website to the most beautiful beaches, using HTML, CSS & JAVASCRIPT.
 - Contains animations when scrolling.
